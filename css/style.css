@@ -44,12 +44,12 @@ header nav ul li a:hover{
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(../images/bg2.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(../images/bg2.jpg);
     display: flex;
     align-items: center;
     justify-content: center;
 }
 .Admin h1{
-    font-size: 40px;
+    font-size: 38px;
     color: #9a8181;
 }
